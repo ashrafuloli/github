@@ -11,6 +11,10 @@ git init
 git config --global user.name "rejbioli"
 git config --global user.email "rock.ashraful@gmail.com"
 
+git config --global user.name "fname lname"
+git config --global user.email "example@gmail.com"
+git config --global user.password "secret"
+
 chack
 -------
 
